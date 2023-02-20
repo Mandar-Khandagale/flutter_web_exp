@@ -1,6 +1,6 @@
 # flutter_web_exp
 
-A new Flutter project.
+A new Flutter Web project with Getx State Management and architecture
 
 ## Getting Started
 
